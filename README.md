@@ -9,7 +9,7 @@ Um projeto que trabalha de forma basica, simples e clara o HTML e CSS, aplicando
 * Cascading
 * Specificity 
 
-
+![image](https://github.com/1BrenoOliveira/Maratona-explorer-3/assets/59750674/0a17813b-8a5b-463e-8cab-456007ba9a97)
 
 Projeto rodando na ferramenta Netilify: 
 Veja o resultado: https://glittery-axolotl-0c7de2.netlify.app/
